@@ -1,4 +1,4 @@
-torch==1.7.1 # the later version is also OK
+torch==2.2.0 # the later version is also OK
 torchvision==0.8.2
 timm==0.4.12
 Pillow
